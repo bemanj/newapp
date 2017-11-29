@@ -6,3 +6,6 @@ C:\Users\rm004134263\Desktop\myapp\NewApplication\NewApplication\obj\x86\Debug\N
 C:\Users\rm004134263\Desktop\myapp\NewApplication\NewApplication\obj\x86\Debug\NewApplication.exe
 C:\Users\rm004134263\Desktop\myapp\NewApplication\NewApplication\obj\x86\Debug\NewApplication.xml
 C:\Users\rm004134263\Desktop\myapp\NewApplication\NewApplication\obj\x86\Debug\NewApplication.pdb
+C:\Users\JM004320651\source\repos\newapp\newapp\NewApplication\NewApplication\obj\x86\Debug\NewApplication.exe
+C:\Users\JM004320651\source\repos\newapp\newapp\NewApplication\NewApplication\obj\x86\Debug\NewApplication.xml
+C:\Users\JM004320651\source\repos\newapp\newapp\NewApplication\NewApplication\obj\x86\Debug\NewApplication.pdb
